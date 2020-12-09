@@ -1214,9 +1214,9 @@ HORIZONTAL
 
 SLIDER
 165
-360
+350
 337
-393
+383
 mask-wearers
 mask-wearers
 0
@@ -1228,10 +1228,10 @@ NIL
 HORIZONTAL
 
 MONITOR
-10
-500
-120
-545
+605
+325
+715
+370
 num-mask-wearers
 count persons with [ mask? ]
 3
@@ -1240,9 +1240,9 @@ count persons with [ mask? ]
 
 SWITCH
 10
-360
+350
 152
-393
+383
 wearing-masks?
 wearing-masks?
 0
@@ -1251,9 +1251,9 @@ wearing-masks?
 
 SLIDER
 10
-405
+395
 150
-438
+428
 mask-mask-prob
 mask-mask-prob
 0
@@ -1266,9 +1266,9 @@ HORIZONTAL
 
 SLIDER
 165
-405
+395
 337
-438
+428
 mask-bare-prob
 mask-bare-prob
 0
@@ -1281,9 +1281,9 @@ HORIZONTAL
 
 SLIDER
 10
-455
+445
 150
-488
+478
 bare-mask-prob
 bare-mask-prob
 0
@@ -1296,9 +1296,9 @@ HORIZONTAL
 
 SLIDER
 165
-455
+445
 337
-488
+478
 bare-bare-prob
 bare-bare-prob
 0
@@ -1317,7 +1317,7 @@ TEXTBOX
 Mask Wearing Options\n\n
 14
 0.0
-1
+0
 
 @#$#@#$#@
 @#$#@#$#@

@@ -1,4 +1,4 @@
-extensions [ time ]
+
 breed [houses house]
 breed [persons person]
 breed [workplaces workplace]
